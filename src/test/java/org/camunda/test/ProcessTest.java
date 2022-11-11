@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import static org.camunda.bpm.engine.test.assertions.bpmn.BpmnAwareTests.*;
 
-@Deployment(resources = "bpmn/process.bpmn")
+@Deployment(resources = "bpmn/develop/process.bpmn")
 public class ProcessTest extends AbstractProcessEngineRuleTest {
 
   @Before

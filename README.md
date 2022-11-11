@@ -1,5 +1,3 @@
-# vanilla-camunda-template
+# camunda7-autodeploy
 
-This is a template repository to create a plain vanilla CAMUNDA Platform EE Spring Boot project.
-
-This is the best generic starting point!  - Change my mind :)
+Example illustrating auto-deployment feature of Camunda 7
